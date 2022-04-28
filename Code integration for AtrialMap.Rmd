@@ -101,7 +101,7 @@ dim(Object_single)
 
 Data integration, cell-cycle regression and cell clustering
 ```{r}
-Object.list <- SplitObject(Combine, split.by = "condition")
+Object.list <- SplitObject(Combine, split.by = "samples") 
 # Object Combine contains different Object_single mentioned above
 
 # difine cell-cycle genes
