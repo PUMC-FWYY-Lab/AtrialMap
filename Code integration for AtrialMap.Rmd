@@ -3,7 +3,7 @@ Title: "AtrialMap"
 
 Outline: This is the demo code for AtrialMap, including "Filtering and doublet removal", "Data integration and cell-cycle regression", "Single-cell clustering", "Cell type identification and annotation", "Functional analysis of cell populations", "Cell–cell communication", "Gene score calculation" and "Cell trajectory analysis".
 
-A brief explanation: Many different datasets were used in this work, like Atrial_Nuclei_Donor.rdata, Atrial_Total_Cells_Donor.rdata, Atrial_CD45_cells_Donor.rdata, and so on. To keep things simple and avoid confusion, "Object" or "test" was used as global name for these datasets. Duplicate codes or loops were deleted or simplified as soon as possible.
+A brief explanation: Many different datasets were used in this work, like Atrial_Nuclei_Donor.rdata, Atrial_Total_Cells_Donor.rdata, and so on. To keep things simple and avoid confusion, "Object" or "test" was used as global name for these datasets. Duplicate codes or loops were deleted or simplified as soon as possible.
 ---
 
 Loading libraries
